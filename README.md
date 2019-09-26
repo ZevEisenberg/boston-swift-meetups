@@ -1,11 +1,6 @@
 # Boston Swift Meetups
 
-## CocoaHeads
-<http://www.cocoaheadsboston.org>
-
-Lecture-style format, with some presentations and some open group discussion. Followed by optional dinner at Cambridge Brewing Company.
-
-Meets the second Thursday of every month at MIT.
+(In alphabetical order.)
 
 ## Boston iOS Meetup
 <https://www.meetup.com/Boston-iOS-Meetup/>
@@ -13,6 +8,13 @@ Meets the second Thursday of every month at MIT.
 Presentations on anything iOS and Swift related.
 
 Usually meets on Wednesdays at TrueMotion.
+
+## CocoaHeads
+<http://www.cocoaheadsboston.org>
+
+Lecture-style format, with some presentations and some open group discussion. Followed by optional dinner at Cambridge Brewing Company.
+
+Meets the second Thursday of every month at MIT.
 
 ## Learn Swift Boston
 <https://www.learnswiftboston.com>
