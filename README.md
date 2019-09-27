@@ -10,7 +10,7 @@ Presentations on anything iOS and Swift related.
 Usually meets on Wednesdays at TrueMotion.
 
 ## CocoaHeads
-<http://www.cocoaheadsboston.org>
+<https://www.meetup.com/cocoaheads-boston/>
 
 Lecture-style format, with some presentations and some open group discussion. Followed by optional dinner at Cambridge Brewing Company.
 
@@ -29,6 +29,13 @@ Meets the third Thursday of every month at a different office each time, so chec
 Designed for Macintosh and iOS programmers, iPhone and iPad technical discussions.
 
 Meets the first Wednesday of every month at MIT.
+
+## NSHappyHour
+<https://twitter.com/nshappyhour>
+
+Informal conversation over dinner.
+
+Meets the first Wednesday of every month at restaurants in Salem, Massachusetts.
 
 ## SwiftCoders Boston
 <https://www.meetup.com/SwiftCodersBoston/>
